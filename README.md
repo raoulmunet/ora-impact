@@ -185,6 +185,12 @@ This project uses [ora-core](https://github.com/raoulmunet/ora-core) for shared 
 - database-metadata enrichment mode;
 - CI-friendly impact reports.
 
+## Visual demo
+
+A static visual preview is included in [`docs/index.html`](docs/index.html).
+
+To publish it with GitHub Pages: **Settings → Pages → Deploy from a branch → `main` → `/docs`**. The repository is already prepared with `docs/.nojekyll`.
+
 ## Oracle Dev Tools family
 
 This repository is part of the **Oracle Dev Tools** suite: small, composable developer utilities designed around Oracle Database 19c, 23ai and 26ai.
